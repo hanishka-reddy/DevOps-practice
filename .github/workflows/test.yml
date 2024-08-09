@@ -2,7 +2,7 @@
 
 name: Node js application
 
-on: [push, pull_request]
+on: [push]
 
 jobs:
   build:
