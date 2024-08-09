@@ -6,7 +6,7 @@ on: [push]
 
 jobs:
   build:
-    uses: owner/workflow-template/.github/workflows/resuable-template.yml
+    uses: hanishka-reddy/workflow-template/.github/workflows/resuable-template.yml@main
     with:
       node-version: '14'
 
