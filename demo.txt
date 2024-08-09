@@ -1,3 +1,0 @@
-this is from cmd
-
-this is third line from cmd
